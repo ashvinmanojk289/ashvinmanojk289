@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
 # 💫 About Me:
-Hi there! I'm a passionate MTech student in AI & ML with a background in Robotics and Automation. I love building intelligent systems that bridge the gap between the physical and digital worlds.<br><br>🔧 From embedded systems and PCB design to deep learning pipelines, my journey has been a blend of hardware and AI.<br>🧠 I’m currently exploring transformer models, speech processing, computer vision, and real-time applications in multilingual environments.<br>🤖 Projects include a weed-detection robot, a facial expression recognition system, a multilingual news audio translator, and more.<br>🎯 My goal is to create impactful AI systems that solve real-world problems.
+Hi there! I'm a passionate MTech student in AI & ML with a background in Robotics and Automation. I love building intelligent systems that bridge the gap between the physical and digital worlds.<br><br>🔧 From embedded systems and PCB design to deep learning pipelines, my journey has been a blend of hardware and AI.<br>🧠 I’m currently exploring transformer models, speech processing, computer vision, and real-time applications in multilingual environments.<br>🤖 Projects include a multilingual news audio translator, a weed detection robot, a spiderbot and more.<br>🎯 My goal is to create impactful AI systems that solve real-world problems.
 
 
 ## 🌐 Socials:
