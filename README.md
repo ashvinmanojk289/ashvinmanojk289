@@ -32,25 +32,7 @@ Hi there! I'm **Ashvin Manoj**, an **AI/ML Engineer** and **M.Tech Student** spe
 ### **Design & Creative**
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 
-# 📂 Featured Projects:
-<div align="center">
-  <a href="https://github.com/ashvinmanojk289/Weed-Detection-Robot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashvinmanojk289&repo=Weed-Detection-Robot&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/ashvinmanojk289/Multilingual-Audio-Translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashvinmanojk289&repo=Multilingual-Audio-Translator&theme=dark&hide_border=true" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/ashvinmanojk289/PDF-Query-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashvinmanojk289&repo=PDF-Query-Application&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/ashvinmanojk289/FLASK_UI_FOR_MULTILINGUAL_NEWS_AUDIO_TRANSLATOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashvinmanojk289&repo=FLASK_UI_FOR_MULTILINGUAL_NEWS_AUDIO_TRANSLATOR&theme=dark&hide_border=true" />
-  </a>
-</div>
-
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
