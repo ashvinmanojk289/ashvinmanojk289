@@ -1,8 +1,16 @@
 ![Banner](banner.png)
 
 # 💫 About Me:
-Hi there! I'm **Ashvin Manoj**, an **AI/ML Engineer** and **AI Researcher and Enthusiast** specializing in Deep Learning, NLP, and Computer Vision. I am passionate about building intelligent systems that perceive, understand, and interact with the world.<br><br>
+Hi there! I'm **Ashvin Manoj**, an **Assistant Professor**, **AI/ML Engineer**, and **AI Researcher** specializing in Deep Learning, NLP, Computer Vision, Multimodal Learning, and Intelligent Systems. I am passionate about building intelligent systems that bridge research, education, and real-world impact.<br><br>
 
+![Assistant Professor](https://img.shields.io/badge/Assistant%20Professor-ASIET-blue?style=for-the-badge)
+![IndiaAI Fellow](https://img.shields.io/badge/IndiaAI-Fellow%202025-orange?style=for-the-badge)
+![M.Tech Merit Topper](https://img.shields.io/badge/M.Tech-Merit%20Topper-gold?style=for-the-badge)
+![University Rank Holder](https://img.shields.io/badge/B.Tech-University%20Rank%20Holder-green?style=for-the-badge)
+
+<br>
+
+👨‍🏫 **Current Role:** Serving as an **Assistant Professor at Adi Shankara Institute of Engineering & Technology (ASIET)**, contributing to undergraduate and honours-level engineering education through teaching, mentoring, academic guidance, seminar coordination, and research-oriented learning initiatives.<br>
 👨‍💻 **Experience:** Worked as a **Software Developer Intern at Mastermine Technologies**, contributing to cross-platform desktop application development using Java Spring, React, and Electron, along with LLM-driven data insight frameworks and intelligent workflow systems. Also served as a **Teaching Assistant**, supporting academic learning, technical guidance, and AI/ML-oriented mentoring initiatives.<br>
 🎓 **Education:** M.Tech in Computer Science & Engineering (AI/ML) at Rajagiri School of Engineering & Technology | B.Tech (Honours) in Robotics & Automation from Adi Shankara Institute of Engineering & Technology.<br>
 🧠 **Research Interests:** Multimodal AI, Natural Language Processing, AI Agent, and Generative AI.<br>
@@ -11,6 +19,11 @@ Hi there! I'm **Ashvin Manoj**, an **AI/ML Engineer** and **AI Researcher and En
 * **Multilingual Audio Translator:** Full-stack Flask app using Wav2Vec 2.0 & mBART.
 * **PDF Query Application:** GenAI tool for natural language document querying,
 * **Weed Detection Robot:** Autonomous bot using a custom Hybrid EfficientNetV2-Transformer model (Published IEEE Access).
+🌱 **Academic Activities:**
+* Teaching undergraduate and honours-level engineering students.
+* Student mentoring and academic guidance.
+* Seminar coordination and project supervision.
+* AI, Machine Learning, NLP, and Data Science education.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashvinmanojk289) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ashvinmanojk289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashvinmanojk@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__t_h_e_l_o_r_d__) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://ashvinmanojk289.github.io)
